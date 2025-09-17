@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋, I'm Ayushi
 
-<!--
-**ayushi0618/Ayushi0618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring developer | Passionate about web apps, automation, and problem-solving  
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🌱 Currently learning **full-stack development (JavaScript, Python, HTML/CSS)**
+- 🛠️ Building projects like ERP systems, portfolio websites, and utilities
+- 👯 Open to **collaborating** on beginner-friendly open-source projects
+- 🎯 Goal: Become a skilled developer contributing to impactful software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech Stack
+- **Languages:** JavaScript, Python, HTML, CSS  
+- **Frameworks & Tools:** Node.js, React, Git/GitHub  
+- **Databases:** MySQL (learning)
+
+---
+
+### 📌 Featured Projects
+- ♟️ [Chess Arena](https://github.com/ayushi0618/chess-arena) – A browser-based chess game built with JavaScript  
+- 🔐 [Password Strength Checker](https://github.com/ayushi0618/password-strength-checkerr) – Python utility to test password security  
+- 🎓 [Student ERP System](https://github.com/ayushi0618/studentt-erp) – ERP prototype for managing student data  
+- 🌐 [Portfolio Website](https://github.com/ayushi0618/portfolio) – Personal portfolio built with HTML/CSS  
+
+---
+
+### 📫 Connect with Me
+- LinkedIn:[[ https://www.linkedin.com/in/ayushi-singh-247126293/](https://www.linkedin.com/in/ayushi-singh-247126293/)]
+- Email: [ayushi.singh0618@gmail.com]  
+
+---
+
+⭐️ From [ayushi0618](https://github.com/ayushi0618)
