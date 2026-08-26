@@ -1,9 +1,18 @@
+<div align="center">
+
 # Hi 👋, I'm Ayushi Singh
 
-## Full Stack Software Engineer | AI Integration Enthusiast
+### Full Stack Software Engineer | AI Integration Enthusiast
 
 Passionate about building scalable web applications, integrating AI to solve real-world problems, and writing clean, efficient code.
-🌐 [Check out my Portfolio Website](https://ayushi-gray.vercel.app/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ayushi-gray.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:example@email.com)
+
+</div>
+
+---
 
 ## 🚀 About Me
 
@@ -28,7 +37,3 @@ Passionate about building scalable web applications, integrating AI to solve rea
 - 💸 **SnapSplit** – A fast, intelligent bill-splitting application built with Supabase, leveraging Google Cloud Vision and the Gemini API for automated calculations.
 - 🤝 **BondPoints** – A unique social platform designed to help people connect and create deep bonds based entirely on emotional resonance (open to everyone, not just couples).
 - 🔍 **Cyber Scanner** – A developer utility built to scan codebases and zip files, instantly identifying potential security vulnerabilities.
-
-## 📫 Let's Connect!
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ayushi-gray.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:example@email.com)
