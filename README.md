@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  🌐 <b><a href="https://ayushiportfolio.oneapp.dev" target="_blank">Check out my Portfolio Website</a></b>
+  🌐 <b><a href="https://ayushiportfolio.oneapp.dev](https://ayushi-gray.vercel.app/" target="_blank">Check out my Portfolio Website</a></b>
 </p>
 
 ---
